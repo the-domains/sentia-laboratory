@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T23:48:07.980Z'
-dateModified: '2015-12-22T23:41:52.023Z'
+datePublished: '2015-12-23T04:29:31.805Z'
+dateModified: '2015-12-22T23:48:07.980Z'
 title: Individual Differences in Human Brain Development
 author: []
 authors: []
