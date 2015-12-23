@@ -1,20 +1,4 @@
-name: Sentia Laboratory
-favicon: null
-layout_spectrum: 0.3874249388463795
-typography_spectrum: 0.4471875422168523
-title: The Sentia Laboratory for the Neuroscience of Childhood
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#E0FBFC'
@@ -24,6 +8,11 @@ color:
     - '#253237'
   brandStrength: 0.3198419401887804
   lightness: 0.5514527382329106
-  saturation: 0.7832037291955203
   rhythmicContrast: 0.6244636366609484
+  saturation: 0.7832037291955203
+cta: {}
+layout_spectrum: 0.703947
+name: Sentia Laboratory
+opengraph: {}
 purpose: []
+typography_spectrum: 0.4471875422168523
