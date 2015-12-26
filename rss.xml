@@ -4,7 +4,7 @@
         <description><![CDATA[Sentia Laboratory for the Developing Mind and Brain]]></description>
         <link>https://thegrid.ai/sentia-laboratory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 08:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 08:19:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sentia-laboratory/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Educational Neuroscience]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Sat, 26 Dec 2015 08:16:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wordle for Brown et al., 2012, Current Biology]]></title>
+            <description><![CDATA[<article><h1>Wordle for Brown et al., 2012, Current Biology</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cebfec6ab7680736e842d2b2e96eed15ea4b8b36.png"></article>]]></description>
+            <link>https://thegrid.ai/sentia-laboratory/wordle-for-brown-et-al-2012-current-biology/index.html</link>
+            <guid isPermaLink="false">26c3d300-92e1-4cdf-8609-43ea29e3a4af</guid>
+            <pubDate>Sat, 26 Dec 2015 08:19:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[T.T. Brown on Google Scholar]]></title>
             <description><![CDATA[<article><h1>T.T. Brown on Google Scholar</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32eff1f2a68bb71468a4123418dd16af0f6a97ef.jpg"></article>]]></description>
             <link>https://thegrid.ai/sentia-laboratory/tt-brown-on-google-scholar/index.html</link>
@@ -43,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Brain activity by the millisecond in specific language impairment]]></title>
-            <description><![CDATA[<article><h1>Brain activity by the millisecond in specific language impairment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74811602a1d642896d40e9eb446879256a35efdb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Brain activity by the millisecond in specific language impairment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb2a936abfdafc03fcb1e335f07807cf1853ad7d.jpg"></article>]]></description>
             <link>http://www.frontiersin.org/files/Articles/71156/fnhum-08-00082-HTML/image_m/fnhum-08-00082-g001.jpg</link>
             <guid isPermaLink="false">725994ee-ecc4-41b4-9f13-5d5330505618</guid>
             <pubDate>Sat, 26 Dec 2015 08:17:29 GMT</pubDate>
