@@ -2,13 +2,13 @@ name: Sentia Laboratory
 favicon: null
 layout_spectrum: 0.25373
 typography_spectrum: 0.27928
-title: Sentia Laboratory for the Neuroscience of Childhood
+title: Sentia Laboratory for the Developing Mind and Brain
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71770908-1
   facebook: null
   twitter: null
 opengraph:
