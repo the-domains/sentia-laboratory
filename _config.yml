@@ -1,20 +1,5 @@
-name: Sentia Laboratory
-favicon: null
-layout_spectrum: 0.13991
-typography_spectrum: 0.6636
-title: Sentia Laboratory for the Developing Mind and Brain
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-71770908-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fb464a'
@@ -23,7 +8,12 @@ color:
     - '#f59231'
     - '#c4c9cd'
   brandStrength: 0.375
-  lightness: 0.5514527382329106
-  saturation: 0.7832037291955203
-  rhythmicContrast: 0.5
+  lightness: 0.551452
+  rhythmicContrast: 0.243421
+  saturation: 0.783203
+cta: {}
+layout_spectrum: 0.379111
+name: Sentia Laboratory
+opengraph: {}
 purpose: []
+typography_spectrum: 0.6636
