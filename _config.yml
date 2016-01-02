@@ -9,11 +9,11 @@ color:
     - '#c4c9cd'
   brandStrength: 0.375
   lightness: 0.551452
-  rhythmicContrast: 1
+  rhythmicContrast: 0.328947
   saturation: 0.783203
 cta: {}
-layout_spectrum: 0.137335
+layout_spectrum: 0
 name: Sentia Laboratory
 opengraph: {}
 purpose: []
-typography_spectrum: 0.6636
+typography_spectrum: 0.275493
