@@ -1,5 +1,19 @@
+name: Sentia Laboratory
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.275493
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-71770908-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#fb464a'
@@ -9,11 +23,6 @@ color:
     - '#c4c9cd'
   brandStrength: 0.375
   lightness: 0.551452
-  rhythmicContrast: 0.328947
   saturation: 0.783203
-cta: {}
-layout_spectrum: 0
-name: Sentia Laboratory
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.275493
