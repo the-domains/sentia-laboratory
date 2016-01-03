@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sentia Laboratory for the Developing Mind and Brain]]></title>
-        <description><![CDATA[Sentia Laboratory for the Developing Mind and Brain]]></description>
+        <title><![CDATA[Sentia Laboratory]]></title>
+        <description><![CDATA[Sentia Laboratory]]></description>
         <link>https://thegrid.ai/sentia-laboratory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 01:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 07:05:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sentia-laboratory/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brain Playground]]></title>
+            <description><![CDATA[<article><h1>Brain Playground</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abf00a468b52c6f4ac66e3b61d48cf56305ca8c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sentia-laboratory/brain-playground/index.html</link>
+            <guid isPermaLink="false">8ac0c3b0-be11-4414-8f74-3d6eea2f8b7e</guid>
+            <pubDate>Sun, 03 Jan 2016 07:04:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Educational Neuroscience]]></title>
             <description><![CDATA[<article><h1>Educational Neuroscience</h1><p>A new open access, interdisciplinary scientific journal devoted to the application of developmental cognitive neuroscience to education and learning</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f2157a3f53182cf0f556ef588f2026eb6371d73.png"></article>]]></description>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[Brain activity by the millisecond for processing words]]></title>
-            <description><![CDATA[<article><h1>Brain activity by the millisecond for processing words</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74811602a1d642896d40e9eb446879256a35efdb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Brain activity by the millisecond for processing words</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb2a936abfdafc03fcb1e335f07807cf1853ad7d.jpg"></article>]]></description>
             <link>http://www.frontiersin.org/files/Articles/71156/fnhum-08-00082-HTML/image_m/fnhum-08-00082-g001.jpg</link>
             <guid isPermaLink="false">725994ee-ecc4-41b4-9f13-5d5330505618</guid>
             <pubDate>Wed, 30 Dec 2015 01:01:27 GMT</pubDate>
@@ -67,15 +74,6 @@
             <description><![CDATA[<article><h1>Who was Sentia?</h1><p>Sentia was the ancient Roman goddess believed to oversee child psychological development. Specifically, it was believed that she granted children awareness of their senses and of their own minds. We now know that human cognitive development does not require any supernatural force, but is nevertheless a miraculous biological phenomenon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b15d8a63285ad76998c34bb1d37441200bdfd1d9.png"></article>]]></description>
             <link>https://thegrid.ai/sentia-laboratory/6fe63104-7e58-48bc-a028-67f2a3e5b90d/index.html</link>
             <guid isPermaLink="false">6fe63104-7e58-48bc-a028-67f2a3e5b90d</guid>
-            <pubDate>Wed, 23 Dec 2015 04:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Individual Differences in Human Brain Development]]></title>
-            <description><![CDATA[<article><h1>Individual Differences in Human Brain Development</h1><p>Because of the fleeting and dynamic nature of functional brain signals, they add another level of complexity to our experiments. For one thing, cognitive state and behavioral task performance need to be tracked because brain activity is closely tied to these factors. Researchers must work very hard not to mistake potentially confounding factors like task performance and head motion for developmental or individual differences in brain anatomy and activity (Brown et al., 2005; Brown et al., 2006; Brown et al., 2010; Irimia et al., 2014; Kuperman et al., 2011; Murphy and Garavan, 2004; Palmer et al., 2004; Power et al., 2011; Schlaggar et al., 2002). This can be difficult to accomplish in imaging studies with children (Brown et al., 2003; Church et al., 2010; Crone et al., 2010; Poldrack, 2010; Van Dijk et al., 2011). Despite these challenges, carefully collected localized brain activity measures should provide valuable additional evidence that can be more directly linked to individual differences in information processing (Brown et al., 2014; Fair et al., 2006). This will provide us with even greater power to relate the developing neurobiology to developing psychological functions. 
-
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd44b53509cb4a69edf81168c6a44f61e221b025.png"></article>]]></description>
-            <link>https://thegrid.ai/sentia-laboratory/individual-differences-in-human-brain-development/index.html</link>
-            <guid isPermaLink="false">cb476939-3dfc-4ed7-a86e-bcb283c344dd</guid>
             <pubDate>Wed, 23 Dec 2015 04:29:43 GMT</pubDate>
         </item>
     </channel>
