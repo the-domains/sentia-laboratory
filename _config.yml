@@ -1,6 +1,6 @@
 name: Sentia Laboratory
 favicon: null
-layout_spectrum: 0.32442
+layout_spectrum: 0.12821
 typography_spectrum: 0.28664
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#040404'
     - '#f59231'
     - '#c4c9cd'
-  brandStrength: 0.375
+  brandStrength: 0.25
   lightness: 0.551452
   saturation: 0.783203
   rhythmicContrast: 0.25
